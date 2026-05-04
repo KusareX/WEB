@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse;
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+    margin-left: 90px;
+}
+
+td {
+    text-align: center;
+    background-color: coral;
+    border: 1px solid #333;
+}
+
+.color1 { background-color:cornflowerblue; }
+
+.color2 { background-color:red; }
+
+.color3 { background-color:darkseagreen; }
+
+.border-top-bottom {
+    border-top: 1px dashed #ff0000;
+}
